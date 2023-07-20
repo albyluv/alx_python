@@ -7,3 +7,4 @@ This is my first Python project. It is a simple "Hello World" program.
 4. 3-last_digit.py: This program will assign a random signed number to the variable number each time it is executed.
 5. 4-print_hexa.py: Prints all numbers from 0 to 98 in decimal and in hexadecimal.
 6. 5-print_comb2.py: Prints numbers from 0 to 99.
+7. 6-print_comb3.py: Prints all possible different combinations of two digits.
